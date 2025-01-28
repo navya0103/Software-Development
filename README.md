@@ -1,6 +1,6 @@
 # Software-Development
 # NAVYA SRI
-<b>THE BOOKING BLISS</b>
+# <b>THE BOOKING BLISS</b>
 ### This application is the process of booking your movie ticket
 ## Navya
 ### Refunds
